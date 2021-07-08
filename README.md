@@ -11,5 +11,5 @@ Hey there, Here are some info about me....
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [my portfolio] (https://babulakter.com)
 - 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ...  I find js as my girlfriend . hahaha.
+- ⚡ Fun fact: ...  I find js as my girlfriend, hahaha.
 -->
