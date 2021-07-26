@@ -88,7 +88,7 @@
  
 
 
-[website]: https://babulakter.com
+[portfolio]: https://babulakter.com
 [twitter]: https://twitter.com/babulakterfsd
 [facebook]: https://www.facebook.com/babulakterfsd
 [github]: https://github.com/babulakterfsd
