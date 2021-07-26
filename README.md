@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/babulakterfsd" target="blank"><img src="https://img.shields.io/twitter/follow/babulakterfsd?logo=twitter&style=for-the-badge" alt="babulakterfsd" /></a> </p>
 
-- 💬 Ask me about **React, Node and JavaScript.** and any kinda MERN project.
+- 💬 Ask me about **React, Node and JavaScript** and any kinda MERN project.
 
 - 📫 How to reach me **babulakterfsd@gmail.com**
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - I'm an aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs** deeply.
-- I always like working in **Visual Studio Code** Environment.
 - I'm a quick learner & I love to learn new 💻 **Technologies**.
+- - I always like working in **Visual Studio Code** Environment.
 - I've a soft corner for 💻 **Wordpress** too and I can do some help with wordpress too.
 
 </br>
