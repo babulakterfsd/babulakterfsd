@@ -14,8 +14,8 @@
 
 - I'm an aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs** deeply.
 - I'm a quick learner & I love to learn new 💻 **Technologies**.
-- I always like working in **Visual Studio Code** Environment.
-- I've a soft corner for 💻 **Wordpress** too and I can do some help with wordpress too.
+- I always love working in **Visual Studio Code** .
+- I've a soft corner for 💻 **Wordpress** and I can do some help with wordpress too.
 
 </br>
 
