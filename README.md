@@ -1,6 +1,6 @@
 
 <img align="right" alt="coding" width="350" src="https://i.ibb.co/Mkjg2y8/122.gif">
-<h1 align="center">Hello, this is Babul, but you can call me **jslover**</h1>
+<h1 align="center">Hello, this is Babul, but you can call me a **javascript-lover**</h1>
 <h3 align="center">A passionate MERN Stack developer from Dhaka, Bangladesh!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-shoharab-pk&label=Profile%20views&color=0e75b6&style=flat" alt="babulakterfsd" /> </p>
