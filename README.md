@@ -1,7 +1,7 @@
 
 <img align="right" alt="coding" width="350" src="https://i.ibb.co/Mkjg2y8/122.gif">
 <h1 align="center">Hello, this is Babul, but you can call me a **javascript-lover**</h1>
-<h3 align="center">A passionate MERN Stack developer from Dhaka, Bangladesh!</h3>
+<h3 align="center">2 years of experience in front-end development, now I am avilable to work as a MERN stack dev with 6 months of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-shoharab-pk&label=Profile%20views&color=0e75b6&style=flat" alt="babulakterfsd" /> </p>
 
