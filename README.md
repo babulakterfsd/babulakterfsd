@@ -1,9 +1,9 @@
 
-<img align="right" alt="coding" width="350" src="https://i.ibb.co/Mkjg2y8/122.gif">
+<img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">Hello, this is Babul, but you can call me a **javascript-lover**</h1>
 <h3 align="center">2 years of experience in front-end development, now I am avilable to work as a MERN stack dev with 6 months of experience</h3>
 
-<p align="left"> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" alt="babulakterfsd" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/babulakterfsd" target="blank"><img src="https://img.shields.io/twitter/follow/babulakterfsd?logo=twitter&style=for-the-badge" alt="babulakterfsd" /></a> </p>
 
