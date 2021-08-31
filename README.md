@@ -3,7 +3,7 @@
 <h1 align="center">Hello, this is Babul, but you can call me a **javascript-lover**</h1>
 <h3 align="center">2 years of experience in front-end development, now I am avilable to work as a MERN stack dev with 6 months of experience</h3>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=babulakterfsd&label=Profile%20views&color=0e75b6&style=flat" alt="babulakterfsd " /> </p>
 
 <p align="left"> <a href="https://twitter.com/babulakterfsd" target="blank"><img src="https://img.shields.io/twitter/follow/babulakterfsd?logo=twitter&style=for-the-badge" alt="babulakterfsd" /></a> </p>
 
