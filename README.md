@@ -3,10 +3,10 @@
 
 <h1 align="center">Hello, this is Babul, but you can call me a **javascript-lover**</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=02%2B+years+of+coding+experience;Always+exploring+new+things;Full+stack+web+developer+"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=1%2B+year+of+coding+experience;Always+exploring+new+things;Full+stack+web+developer+"></a>
 </p>
 
-<h3 align="center">2 years of experience in front-end development, now I am avilable to work as a MERN stack dev with 6 months of experience</h3>
+<h3 align="center">I am available to be hired Now</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=babulakterfsd&label=Profile%20views&color=0e75b6&style=flat" alt="babulakterfsd " />
 </p>
