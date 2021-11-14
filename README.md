@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello, this is Babul, but you can call me a **javascript-lover**</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=1%2B+year+of+coding+experience;Always+exploring+new+things;Full+stack+web+developer+"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=1%2B+year+of+coding+experience;Always+exploring+new+things;FrontEnd+web+developer+"></a>
 </p>
 
 <h3 align="center">I am available to be hired Now</h3>
