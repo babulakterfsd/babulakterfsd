@@ -29,9 +29,9 @@
 ### Connect with Me:
 
 [<img align="left" alt="babulakter.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="bbabulakterfsd | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="bbabulakterfsd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bbabulakterfsd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="fsdbabulakter | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="babulakterfsd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="babulakterfsd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 <a href="https://www.hackerrank.com/babulakterfsd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="babulakterfsd" height="30" width="40" /></a>
 <br />
 
@@ -97,6 +97,6 @@
 
 [portfolio]: https://babulakter.com
 [twitter]: https://twitter.com/babulakterfsd
-[facebook]: https://www.facebook.com/babulakterfsd
+[facebook]: https://www.facebook.com/fsdbabulakter
 [github]: https://github.com/babulakterfsd
 [linkedin]: https://www.linkedin.com/in/babulakterfsd
