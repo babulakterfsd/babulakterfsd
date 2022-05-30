@@ -1,7 +1,6 @@
 
 <div align="center">
-  <img  alt="coding" width="400" src="https://i.ibb.co/qrhwsMM/babulskillz.png?raw=true">
-   <img  alt="coding" width="600" src="https://i.ibb.co/2ZC1ggw/babul.png?raw=true">
+   <img align="center"  alt="coding" width="600" src="https://i.ibb.co/2ZC1ggw/babul.png?raw=true">
 </div>
 
 <h1 align="center">Hello, Myself Babul. But you can call me a **javascript-lover**</h1>
