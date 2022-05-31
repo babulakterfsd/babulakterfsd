@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=HTML+CSS+SaSS+Bootstrap;tailwindCSS+MaterialUI+StyledComponent;Javascript+Reactjs+Redux+Nextjs;Firebase+Nodejs+ExpressJs+MongoDB;Git+Heroku+Netlify"></a>
 </h1>
 
-<h2 align="center">Currently, I am working in a Belgium based company as a react developer (contract based) and I am available to be hired now for fulltime or as per your project needs. Most of the time, I am available on <a href="https://linkedin.com/in/babulakterfsd"> linkedin </a>. Also, please have a loot at my <a href="https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view">  resume </a> or visit my <a href="https://babulakter.com">portfolio</a> as well as read articles on <a href="https://blog.babulakter.com"> my blog. </a> </h2>
+<h2 align="center">Currently, I am working in a Belgium based company as a react developer (contract based) and I am available to be hired now for fulltime or as per your project needs. Most of the time, I am available on <a href="https://linkedin.com/in/babulakterfsd"> linkedin </a>. Also, please have a look at my <a href="https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view">  resume </a> or visit my <a href="https://babulakter.com">portfolio</a> as well as read articles on <a href="https://blog.babulakter.com"> my blog. </a> </h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=babulakterfsd&label=Profile%20views&color=0e75b6&style=flat" alt="babulakterfsd " />
 </p>
