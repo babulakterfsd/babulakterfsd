@@ -22,7 +22,6 @@
 - I'm a quick learner & I love to learn new 💻 **Technologies**.
 - I always love working in **Visual Studio Code** .
 - I am truly a friendly guy, who is kind, smiling, and serious at his work.
--  I've a soft corner for 💻 **Wordpress** and I can do some help with wordpress too.
 
 </br>
 
