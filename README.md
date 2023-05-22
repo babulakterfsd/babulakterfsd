@@ -19,7 +19,7 @@
 
 <h1 align="center">Hello, Myself Babul. But you can call me a **javascript-lover**</h1>
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=HTML+CSS+SaSS+Bootstrap;tailwindCSS+MaterialUI+StyledComponent;Javascript+Reactjs+Redux+Nextjs;Firebase+Nodejs+ExpressJs+MongoDB;Git+Heroku+Netlify"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=HTML+CSS+SaSS+Bootstrap;tailwindCSS+MaterialUI+StyledComponent;Javascript+Reactjs+Redux+Nextjs;Firebase+Nodejs+ExpressJs+Mongoose;JWT+Socket-io+MongoDB+Git+CPanel"></a>
 </h1>
 
 <h2 align="center">Currently, I am working in a Belgium based startup as a Junior Full-Stack Developer (contract based) and I am available to be hired now for fulltime or as per your project needs. Most of the time, I am available on <a href="https://linkedin.com/in/babulakterfsd"> linkedin </a>. Also, please have a look at my <a href="https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view">  resume </a> or visit my <a href="https://babulakter.com">portfolio.</a>
