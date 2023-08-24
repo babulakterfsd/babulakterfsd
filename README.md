@@ -5,7 +5,7 @@
 
 <summary>📊 Github Readme Stats</summary>
  </br>
- <div style="display: flex; flex-direction: row; align-items: center">
+ <div style="display: flex; align-items: center">
   <!-- <a href="https://github.com/babulakterfsd">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=babulakterfsd&show_icons=true&theme=radical&count_private=true">
   </a> -->
