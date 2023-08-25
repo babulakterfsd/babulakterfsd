@@ -6,14 +6,14 @@
 <summary>📊 Github Readme Stats</summary>
  </br>
  <p style="align:center">
-  <a href="https://github.com/babulakterfsd">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=babulakterfsd&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/babulakterfsd" align="center">
+   <img align="center" width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=babulakterfsd&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/babulakterfsd/github-readme-stats">
+  <a href="https://github.com/babulakterfsd/github-readme-stats" align="center">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=babulakterfsd&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
- <p style="align:center">
+ <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babulakterfsd&theme=radical&hide_border=true"/>
 </p>
 
