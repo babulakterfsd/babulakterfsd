@@ -1,10 +1,3 @@
-
-<!-- <div align="center">
-   <img align="center"  alt="coding" width="400" src="https://i.ibb.co/WpybQtN/funny-developer.gif">
-</div> -->
-
-<summary>📊 Github Readme Stats</summary>
- </br>
  <p style="align:center">
   <a href="https://github.com/babulakterfsd" align="center">
    <img align="center" width="330" align="center" src="https://github-readme-stats.vercel.app/api?username=babulakterfsd&hide=contribs,issues&theme=radical&hide_rank=true&count_private=true&include_all_commits=true">
@@ -33,34 +26,11 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm an aspiring 🔭️ Web Developer, currently learning 🌱 **nodejs deeply** .
-- I'm a quick learner & I love to learn new 💻 **Technologies**.
-- I always love working in **Visual Studio Code** .
-- I am truly a friendly guy, who is kind, smiling, and serious at his work.
+- Completed 100+ free and paid projects for worldwide clients.
+- Strong knowledge in responsive web development.
+- Strong hand on Javascript, Typescript, Reactjs, Nextjs, Expressjs, Mongoose, MongoDb and Nodejs.
+- Very much confident in raw css and in any trending css library like tailwind, bootstrap, mui, chakra or whatever.
+- Have depth on implementing authentication and payment system for web apps.
+- Honest, friendly, professional and concern about deadline
 
 </br>
-
-### Connect with Me:
-
-[<img align="left" alt="https://babulakter.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="babulakterfsd2 | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="babulakterfsd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="babulakterfsd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-<a href="https://www.hackerrank.com/babulakterfsd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="babulakterfsd" height="30" width="40" /></a>
-<br />
-
-
- <summary>🏆 Github Profile Trophy</summary>
- </br>
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=babulakterfsd&column=8&theme=darkhub"/>
-  </a>
- </p>
-
-
-[portfolio]: https://babulakter.com
-[twitter]: https://twitter.com/babulakterfsd
-[facebook]: https://www.facebook.com/babulakterfsd2
-[github]: https://github.com/babulakterfsd
-[linkedin]: https://www.linkedin.com/in/babulakterfsd
