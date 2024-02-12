@@ -11,13 +11,13 @@
 </p>
 
 
-<h3 align="center" style="font-size: 36px;">Hello, Myself Babul. But you can call me a <strong>javascript-lover</strong></h3>
+<h3 align="center" style="font-size: 60px;">Hello, Myself Babul. But you can call me a <strong>javascript-lover</strong></h3>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=HTML+CSS+SaSS+Bootstrap;tailwindCSS+MaterialUI+StyledComponent;Javascript+Reactjs+Redux+Nextjs;Firebase+Nodejs+ExpressJs+Mongoose;JWT+Socket-io+MongoDB+Git+CPanel"></a>
 </h3>
 
-#### Currently, I am working in a Belgium based startup as a Junior Full-Stack Developer (contract based) and I am available to be hired now for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
+<h3 style="font-size: 48px"> Currently, I am working in a Belgium based startup as a Junior Full-Stack Developer (contract based) and I am available to be hired now for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com). </h3>
 
 
 
