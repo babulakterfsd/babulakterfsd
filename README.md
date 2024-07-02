@@ -36,17 +36,13 @@
 
 ### Currently, I am doing a remote job in a Belgium based startup as a Full-Stack Developer (contract based) and I am available to be hired now for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
 
-#### Send an email to <ins> babulakterfsd@gmail.com </ins> and I will reply you in a real quick.
-
-
+### Send an email to <ins> babulakterfsd@gmail.com </ins> and I will reply you in a real quick.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babulakterfsd&label=Profile%20views&color=0e75b6&style=flat" alt="babulakterfsd " height="28px"  />  <a href="https://twitter.com/babulakterfsd" target="blank"><img src="https://img.shields.io/twitter/follow/babulakterfsd?logo=twitter&style=for-the-badge" alt="babulakterfsd" /></a>
 </p>
 
 
-
-
-#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - Completed 100+ free and paid projects for worldwide clients.
 - Strong knowledge in responsive web development.
