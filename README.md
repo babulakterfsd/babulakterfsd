@@ -1,5 +1,5 @@
-<h3>Hi, glad to see you.</h3>
-<p>Myself Babul, a full stack developer from Bogura, Bangladesh. </p>
+### Hi, glad to see you
+#### Myself Babul, a full stack developer from Bogura, Bangladesh.
  <p style="align:center">
   <a href="https://github.com/babulakterfsd" align="center">
    <img align="center" width="330" align="center" src="https://github-readme-stats.vercel.app/api?username=babulakterfsd&hide=contribs,issues&theme=radical&hide_rank=true&count_private=true&include_all_commits=true">
@@ -20,7 +20,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=HTML+CSS+SaSS+Bootstrap;tailwindCSS+MaterialUI+StyledComponent;Javascript+Reactjs+Redux+Nextjs;Firebase+Nodejs+ExpressJs+Mongoose;JWT+Socket-io+MongoDB+Git+CPanel"></a>
 </h3>-->
 
-<h3  align="left">Things I code with: </h3>
+### Things I code with:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -34,7 +34,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Currently, I am doing a remote job in a Belgium based startup as a Full-Stack Developer (contract based) and I am available to be hired now for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).</h3>
+### Currently, I am doing a remote job in a Belgium based startup as a Full-Stack Developer (contract based) and I am available to be hired now for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
+
+#### Send an email to <ins> babulakterfsd@gmail.com </ins> and I will reply you in a real quick.
 
 
 
@@ -42,9 +44,9 @@
 </p>
 
 
-<h4>Send an email to <ins> babulakterfsd@gmail.com </ins> and I will reply you in a real quick.</h4>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - Completed 100+ free and paid projects for worldwide clients.
 - Strong knowledge in responsive web development.
