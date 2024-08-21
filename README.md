@@ -68,7 +68,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- Completed 100+ free and paid projects for worldwide clients.
+- Completed 67+ free and paid projects for worldwide clients.
 - Strong knowledge in responsive web development.
 - Strong hand on Javascript, Typescript, Reactjs, Nextjs, Expressjs, Mongoose, Prisma, PostgreSQL, MongoDb and Nodejs.
 - Very much confident in raw css and in any trending css library like tailwind, bootstrap, mui, chakra or whatever.
