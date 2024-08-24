@@ -58,7 +58,7 @@
  
 </p>
 
-### Currently, I am doing a remote job in a Belgium based startup as a Full-Stack Developer (contract based) and I am available to be hired now for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
+### Recently, I have completed my role as a full stack developer in a Belgium-based company named Soltires and I am immediately available to be hired now for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
 
 ### Send an email to <ins> babulakterfsd@gmail.com </ins> and I will reply you in a real quick.
 
