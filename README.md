@@ -1,5 +1,5 @@
 ### Hi, glad to see you.
-#### Myself Babul, a full stack developer from Bogura, Bangladesh.
+#### Myself Babul, a full stack developer from Dhaka, Bangladesh.
  <p style="align:center">
   <a href="https://github.com/babulakterfsd" align="center">
    <img align="center" width="330" align="center" src="https://github-readme-stats.vercel.app/api?username=babulakterfsd&hide=contribs,issues&theme=radical&hide_rank=true&count_private=true&include_all_commits=true">
