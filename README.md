@@ -58,7 +58,7 @@
  
 </p>
 
-#### In my recent role as a Full Stack Developer at Soltires, a Belgium-based company, I remotely led the development of complex applications using JavaScript, React.js, Redux, Next.js, Node.js, Express.js, Mongoose, MongoDB, Prisma, and PostgreSQL. I successfully transformed Figma designs into responsive, pixel-perfect interfaces with Next.js and Tailwind CSS and also integrated Web3 solutions and automation for innovative NFT projects. Now, I am immediately available to be hired for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
+### In my recent role as a Full Stack Developer at Soltires, a Belgium-based company, I remotely led the development of complex applications using JavaScript, React.js, Redux, Next.js, Node.js, Express.js, Mongoose, MongoDB, Prisma, and PostgreSQL. I successfully transformed Figma designs into responsive, pixel-perfect interfaces with Next.js and Tailwind CSS and also integrated Web3 solutions and automation for innovative NFT projects. Now, I am immediately available to be hired for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
 
 ### Send an email to <ins> babulakterfsd@gmail.com </ins> and I will reply you in a real quick.
 
