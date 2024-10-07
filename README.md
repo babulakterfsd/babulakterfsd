@@ -58,7 +58,7 @@
  
 </p>
 
-### Recently, I have completed my role as a full stack developer in a Belgium-based company named Soltires and I am immediately available to be hired now for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
+#### In my recent role as a Full Stack Developer at Soltires, a Belgium-based company, I remotely led the development of complex applications using JavaScript, React.js, Redux, Next.js, Node.js, Express.js, Mongoose, MongoDB, Prisma, and PostgreSQL. I successfully transformed Figma designs into responsive, pixel-perfect interfaces with Next.js and Tailwind CSS and also integrated Web3 solutions and automation for innovative NFT projects. Now, I am immediately available to be hired for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
 
 ### Send an email to <ins> babulakterfsd@gmail.com </ins> and I will reply you in a real quick.
 
@@ -68,10 +68,10 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- Completed 67+ free and paid projects for worldwide clients.
+- Completed 106+ free and paid projects for worldwide clients.
 - Strong knowledge in responsive web development.
 - Strong hand on Javascript, Typescript, Reactjs, Nextjs, Expressjs, Mongoose, Prisma, PostgreSQL, MongoDb and Nodejs.
-- Very much confident in raw css and in any trending css library like tailwind, bootstrap, mui, chakra or whatever.
+- Very much confident in raw css and in any trending css library like tailwind, bootstrap, mui, shadcn or whatever.
 - Have depth on implementing authentication and payment system for web apps.
 - Honest, friendly, professional and concern about deadline
 
