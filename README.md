@@ -52,8 +52,8 @@
    <img alt="Postman" src="https://img.shields.io/badge/-Postman-F05032?style=flat-square&logo=postman&logoColor=white" />
    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F05032?style=flat-square&logo=figma&logoColor=white" />
    <img alt="vercel" src="https://img.shields.io/badge/-Vercel-F05032?style=flat-square&logo=vercel&logoColor=white" />
-  
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F05032?style=flat-square&logo=vercel&logoColor=white" />
   
  
 </p>
