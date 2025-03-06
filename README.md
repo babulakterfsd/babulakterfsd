@@ -1,5 +1,5 @@
 ### Hi, glad to see you.
-#### Myself Babul, a full stack developer from Dhaka, Bangladesh.
+#### Myself Babul, a 3+ years experienced full stack developer from Dhaka, Bangladesh.
  <p style="align:center">
   <a href="https://github.com/babulakterfsd" align="center">
    <img align="center" width="330" align="center" src="https://github-readme-stats.vercel.app/api?username=babulakterfsd&hide=contribs,issues&theme=radical&hide_rank=true&count_private=true&include_all_commits=true">
@@ -58,7 +58,7 @@
  
 </p>
 
-### In my recent role as a Full Stack Developer at Soltires, a Belgium-based company, I remotely led the development of complex applications using JavaScript, React.js, Redux, Next.js, Node.js, Express.js, Mongoose, MongoDB, Prisma, and PostgreSQL. I successfully transformed Figma designs into responsive, pixel-perfect interfaces with Next.js and Tailwind CSS and also integrated Web3 solutions and automation for innovative NFT projects. 
+### In my recent role as a Software engineer at iB Analytica, an USA-based company, I remotely led the development of a complex application using Typescript, Next.js, TailwindCSS, Node.js, ExpressJs, and many more. I successfully transformed Figma designs into responsive, pixel-perfect interfaces with Next.js and Tailwind CSS and also created scalable, robust api's using aws lambda and api gateway. 
 ### Now, I am immediately available to be hired for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/babulakterfsd). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
 
 ### Send an email to <ins> babulakterfsd@gmail.com </ins> and I will reply you in a real quick.
